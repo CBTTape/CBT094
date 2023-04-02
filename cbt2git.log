@@ -1,0 +1,51 @@
+2023-04-02 21:31:36.928462 - Initialized conversion of CBT094
+2023-04-02 21:31:39.099407 - Received CBT.V504.FILE094.PDS from FILE094.XMI 
+2023-04-02 21:31:39.102243 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE094.PDS, moved to PDS/$$$#DATE
+2023-04-02 21:31:39.103333 - Found $$NOTE1.txt (text/plain) in CBT.V504.FILE094.PDS, moved to PDS/$$NOTE1
+2023-04-02 21:31:39.104528 - Found $$NOTE2.txt (text/plain) in CBT.V504.FILE094.PDS, moved to PDS/$$NOTE2
+2023-04-02 21:31:39.105845 - Found $$NOTE3.txt (text/plain) in CBT.V504.FILE094.PDS, moved to PDS/$$NOTE3
+2023-04-02 21:31:39.107637 - Found $COMMON.txt (text/plain) in CBT.V504.FILE094.PDS, moved to PDS/$COMMON
+2023-04-02 21:31:39.109127 - Found $COMM142.txt (text/plain) in CBT.V504.FILE094.PDS, moved to PDS/$COMM142
+2023-04-02 21:31:39.110696 - Found $COMM143.txt (text/plain) in CBT.V504.FILE094.PDS, moved to PDS/$COMM143
+2023-04-02 21:31:39.112538 - Found $COMM144.txt (text/plain) in CBT.V504.FILE094.PDS, moved to PDS/$COMM144
+2023-04-02 21:31:39.113961 - Found $COMM145.txt (text/plain) in CBT.V504.FILE094.PDS, moved to PDS/$COMM145
+2023-04-02 21:31:39.115566 - Found $COMM146.txt (text/plain) in CBT.V504.FILE094.PDS, moved to PDS/$COMM146
+2023-04-02 21:31:39.116739 - Found $COMM147.txt (text/plain) in CBT.V504.FILE094.PDS, moved to PDS/$COMM147
+2023-04-02 21:31:39.118406 - Found $COMM148.txt (text/plain) in CBT.V504.FILE094.PDS, moved to PDS/$COMM148
+2023-04-02 21:31:39.119577 - Found $DAFJCL.jcl (text/plain) in CBT.V504.FILE094.PDS, moved to PDS/$DAFJCL
+2023-04-02 21:31:39.120620 - Found $DAFNOTE.txt (text/plain) in CBT.V504.FILE094.PDS, moved to PDS/$DAFNOTE
+2023-04-02 21:31:39.121731 - Found $ODAFDOC.txt (text/plain) in CBT.V504.FILE094.PDS, moved to PDS/$ODAFDOC
+2023-04-02 21:31:39.122774 - Found @FILE094.txt (text/plain) in CBT.V504.FILE094.PDS, moved to PDS/@FILE094
+2023-04-02 21:31:39.125768 - Found DAF.jcl (text/plain) in CBT.V504.FILE094.PDS, moved to PDS/DAF
+2023-04-02 21:31:39.127144 - Found DAFPLI.txt (text/plain) in CBT.V504.FILE094.PDS, moved to PDS/DAFPLI
+2023-04-02 21:31:39.129219 - Found DAF130.jcl (text/plain) in CBT.V504.FILE094.PDS, moved to PDS/DAF130
+2023-04-02 21:31:39.144701 - Found DAF130L.xmi (application/xmit) in CBT.V504.FILE094.PDS
+2023-04-02 21:31:39.152118   - Received RECFM=U data, stored XMIT file as CBT094/DAF130L.xmi
+2023-04-02 21:31:39.153670 - Found DAF140.jcl (text/plain) in CBT.V504.FILE094.PDS, moved to PDS/DAF140
+2023-04-02 21:31:39.168308 - Found DAF140L.xmi (application/xmit) in CBT.V504.FILE094.PDS
+2023-04-02 21:31:39.177063   - Received RECFM=U data, stored XMIT file as CBT094/DAF140L.xmi
+2023-04-02 21:31:39.178564 - Found DAF142.jcl (text/plain) in CBT.V504.FILE094.PDS, moved to PDS/DAF142
+2023-04-02 21:31:39.196942 - Found DAF142L.xmi (application/xmit) in CBT.V504.FILE094.PDS
+2023-04-02 21:31:39.205266   - Received RECFM=U data, stored XMIT file as CBT094/DAF142L.xmi
+2023-04-02 21:31:39.207331 - Found DAF143.jcl (text/plain) in CBT.V504.FILE094.PDS, moved to PDS/DAF143
+2023-04-02 21:31:39.224177 - Found DAF143L.xmi (application/xmit) in CBT.V504.FILE094.PDS
+2023-04-02 21:31:39.231685   - Received RECFM=U data, stored XMIT file as CBT094/DAF143L.xmi
+2023-04-02 21:31:39.233859 - Found DAF144.jcl (text/plain) in CBT.V504.FILE094.PDS, moved to PDS/DAF144
+2023-04-02 21:31:39.258820 - Found DAF144L.xmi (application/xmit) in CBT.V504.FILE094.PDS
+2023-04-02 21:31:39.267296   - Received RECFM=U data, stored XMIT file as CBT094/DAF144L.xmi
+2023-04-02 21:31:39.269895 - Found DAF145.jcl (text/plain) in CBT.V504.FILE094.PDS, moved to PDS/DAF145
+2023-04-02 21:31:39.296199 - Found DAF145L.xmi (application/xmit) in CBT.V504.FILE094.PDS
+2023-04-02 21:31:39.303883   - Received RECFM=U data, stored XMIT file as CBT094/DAF145L.xmi
+2023-04-02 21:31:39.305800 - Found DAF146.jcl (text/plain) in CBT.V504.FILE094.PDS, moved to PDS/DAF146
+2023-04-02 21:31:39.335539 - Found DAF146L.xmi (application/xmit) in CBT.V504.FILE094.PDS
+2023-04-02 21:31:39.343508   - Received RECFM=U data, stored XMIT file as CBT094/DAF146L.xmi
+2023-04-02 21:31:39.346434 - Found DAF147.jcl (text/plain) in CBT.V504.FILE094.PDS, moved to PDS/DAF147
+2023-04-02 21:31:39.380262 - Found DAF147L.xmi (application/xmit) in CBT.V504.FILE094.PDS
+2023-04-02 21:31:39.387959   - Received RECFM=U data, stored XMIT file as CBT094/DAF147L.xmi
+2023-04-02 21:31:39.390943 - Found DAF148.jcl (text/plain) in CBT.V504.FILE094.PDS, moved to PDS/DAF148
+2023-04-02 21:31:39.427887 - Found DAF148L.xmi (application/xmit) in CBT.V504.FILE094.PDS
+2023-04-02 21:31:39.435670   - Received RECFM=U data, stored XMIT file as CBT094/DAF148L.xmi
+2023-04-02 21:31:39.471774 - Found DAF148NL.xmi (application/xmit) in CBT.V504.FILE094.PDS
+2023-04-02 21:31:39.479933   - Received RECFM=U data, stored XMIT file as CBT094/DAF148NL.xmi
+2023-04-02 21:31:39.513280 - Found DAF149L.xmi (application/xmit) in CBT.V504.FILE094.PDS
+2023-04-02 21:31:39.522264   - Received RECFM=U data, stored XMIT file as CBT094/DAF149L.xmi
